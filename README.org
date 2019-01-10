@@ -1,0 +1,8 @@
+* Copy CS
+This script alows you to get some columns of a ~.csv~ and copy them into another ~file.csv~
+
+** Usage
+   Run the script and it will be asking for some parameters and then... MAGIC.
+
+** License
+   Do whatever you want with this script. I only made to learn some python basics and I was boring.
